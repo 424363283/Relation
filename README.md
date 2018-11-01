@@ -1,6 +1,6 @@
 # 3drelation
 
-> A Vue.js project
+> 一个vue创建的d3关系图
 
 ## Build Setup
 
